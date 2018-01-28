@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\arm\master\bridgeinterface.winmd" HashGuid="b8e781e9-8b2c-e2e2-1b01-ff0d74cdae68" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\arm\master\unityenginedelegates.winmd" HashGuid="d5bfa646-8453-25f8-b5ef-24280c447d94" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\arm\master\unityengineproxy.dll" HashGuid="1a55b4d5-96a7-5c61-25a5-d8a049f31da8" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\arm\master\unityplayer.winmd" HashGuid="325c3326-5f3a-8d33-be61-e51ffe924550" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\arm\master\winrtbridge.winmd" HashGuid="0b7f815b-4077-a12b-8c5b-08ecb7fbe0d0" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

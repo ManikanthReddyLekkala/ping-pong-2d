@@ -1,0 +1,4 @@
+MainPackage=D:\Projects\Application\8.1\Ping Pong 2D\bin\x86\Master\Ping Pong 2D_1.1.0.0_Bundle\Ping Pong 2D_1.1.0.0_x86_Master.appx
+SymbolPackage=D:\Projects\Application\8.1\Ping Pong 2D\AppPackages\Ping Pong 2D_1.1.0.0_Master_Test\Ping Pong 2D_1.1.0.0_x86_Master.appxsym
+ResourcePack=D:\Projects\Application\8.1\Ping Pong 2D\bin\x86\Master\Ping Pong 2D_1.1.0.0_Bundle\Ping Pong 2D_1.1.0.0_scale-140.appx
+ResourcePack=D:\Projects\Application\8.1\Ping Pong 2D\bin\x86\Master\Ping Pong 2D_1.1.0.0_Bundle\Ping Pong 2D_1.1.0.0_scale-180.appx

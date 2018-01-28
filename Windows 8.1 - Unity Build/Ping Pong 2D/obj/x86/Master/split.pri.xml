@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="20485ManikanthReddy.PingPong2D" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>80, 100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Template.xr.xml" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Template.xr.xml">
+				<Candidate type="Path">
+					<Value>Template.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="MediumTile.png" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Assets/MediumTile.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\MediumTile.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Data">
+				<NamedResource name="level0" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/level0">
+					<Candidate type="Path">
+						<Value>Data\level0</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="level1" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/level1">
+					<Candidate type="Path">
+						<Value>Data\level1</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="level2" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/level2">
+					<Candidate type="Path">
+						<Value>Data\level2</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mainData" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/mainData">
+					<Candidate type="Path">
+						<Value>Data\mainData</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="managedAssemblies.txt" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/managedAssemblies.txt">
+					<Candidate type="Path">
+						<Value>Data\managedAssemblies.txt</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlayerConnectionConfigFile" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/PlayerConnectionConfigFile">
+					<Candidate type="Path">
+						<Value>Data\PlayerConnectionConfigFile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets0.assets" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/sharedassets0.assets">
+					<Candidate type="Path">
+						<Value>Data\sharedassets0.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets1.assets" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/sharedassets1.assets">
+					<Candidate type="Path">
+						<Value>Data\sharedassets1.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets2.assets" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/sharedassets2.assets">
+					<Candidate type="Path">
+						<Value>Data\sharedassets2.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets3.assets" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/sharedassets3.assets">
+					<Candidate type="Path">
+						<Value>Data\sharedassets3.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Resources">
+					<NamedResource name="unity default resources" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/Resources/unity%20default%20resources">
+						<Candidate type="Path">
+							<Value>Data\Resources\unity default resources</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="unity_builtin_extra" uri="ms-resource://20485ManikanthReddy.PingPong2D/Files/Data/Resources/unity_builtin_extra">
+						<Candidate type="Path">
+							<Value>Data\Resources\unity_builtin_extra</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

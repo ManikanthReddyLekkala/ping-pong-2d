@@ -1,0 +1,16 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\projects\application\8.1\ping pong 2d\obj\x86\master\intermediatexaml\template.exe" HashGuid="3129154e-0ceb-0f18-65ea-caa7fd822573" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\ping pong 2d\assembly-csharp.dll" HashGuid="3e88b8be-6c00-d8b1-b968-a2159706efa6" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\ping pong 2d\assembly-unityscript.dll" HashGuid="f0ec7f1b-abf3-325d-f111-91650dfb4903" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\ping pong 2d\boo.lang.dll" HashGuid="885a9858-63b9-510a-abb5-b02cbdec83a3" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\x86\master\bridgeinterface.winmd" HashGuid="b8e781e9-8b2c-e2e2-1b01-ff0d74cdae68" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\ping pong 2d\unityengine.dll" HashGuid="90ecd8ac-54dc-c1ee-16a7-58ff54902c3d" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\x86\master\unityenginedelegates.winmd" HashGuid="d5bfa646-8453-25f8-b5ef-24280c447d94" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\x86\master\unityengineproxy.dll" HashGuid="1a55b4d5-96a7-5c61-25a5-d8a049f31da8" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\x86\master\unityplayer.winmd" HashGuid="325c3326-5f3a-8d33-be61-e51ffe924550" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\players\windows81\x86\master\winrtbridge.winmd" HashGuid="28e4ab7a-43f1-2209-dfa4-c1fd5d427095" />
+    <ReferenceAssembly PathName="d:\projects\application\8.1\ping pong 2d\winrtlegacy.dll" HashGuid="939d5ce9-9147-71a6-3db5-10e6839be937" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

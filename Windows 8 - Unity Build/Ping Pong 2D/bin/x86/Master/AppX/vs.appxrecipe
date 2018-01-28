@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANIKANTHREDDY</Machine>
+    <WindowsUser>ManikanthReddy</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Master|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>PingPong2D</PackageIdentityName>
+    <IntermediateOutputPath>D:\Projects\Application\8\Ping Pong 2D\obj\x86\Master\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9CCED147FA39942C0848471779AC50668A75A111F8B658F5434B071C8FDE824F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>PingPong2D_1.0.0.0_x86__7xrbrqqavzjcj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>PingPong2D_7xrbrqqavzjcj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>PingPong2D</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Manikanth Reddy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Projects\Application\8\Ping Pong 2D\bin\x86\Master\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-22T19:11:37.690</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\bin\x86\Master\Template.exe">
+      <PackagePath>Template.exe</PackagePath>
+      <Modified>2014-08-22T19:11:20.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+      <Modified>2014-08-22T19:11:18.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assembly-UnityScript.dll">
+      <PackagePath>Assembly-UnityScript.dll</PackagePath>
+      <Modified>2014-08-22T19:11:18.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Boo.Lang.dll">
+      <PackagePath>Boo.Lang.dll</PackagePath>
+      <Modified>2014-08-22T19:11:18.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+      <Modified>2014-08-22T19:11:18.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Players\Windows80\x86\Master\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+      <Modified>2014-05-26T08:16:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+      <Modified>2014-08-22T19:11:18.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Players\Windows80\x86\Master\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2014-05-26T08:21:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Players\Windows80\x86\Master\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+      <Modified>2014-05-26T08:15:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Players\Windows80\x86\Master\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+      <Modified>2014-05-26T08:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Players\Windows80\x86\Master\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+      <Modified>2014-05-26T08:15:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Players\Windows80\x86\Master\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+      <Modified>2014-05-26T08:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Players\Windows80\x86\Master\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2014-05-26T08:21:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Players\Windows80\x86\Master\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+      <Modified>2014-05-26T08:15:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T19:01:22.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T18:58:08.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T18:59:51.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T19:03:09.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T19:03:55.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T19:04:38.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T19:05:32.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T20:05:24.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T20:06:03.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T20:06:59.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Assets\MediumTile.scale-100.png">
+      <PackagePath>Assets\MediumTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-24T05:33:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2014-08-22T19:07:43.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\level1">
+      <PackagePath>Data\level1</PackagePath>
+      <Modified>2014-08-22T19:07:44.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\level2">
+      <PackagePath>Data\level2</PackagePath>
+      <Modified>2014-08-22T19:07:44.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\mainData">
+      <PackagePath>Data\mainData</PackagePath>
+      <Modified>2014-08-22T19:07:46.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\PlayerConnectionConfigFile">
+      <PackagePath>Data\PlayerConnectionConfigFile</PackagePath>
+      <Modified>2014-08-22T19:07:46.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2014-05-23T16:36:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2014-08-22T19:07:46.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+      <Modified>2014-08-22T19:07:51.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2014-08-22T19:07:46.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\sharedassets1.assets">
+      <PackagePath>Data\sharedassets1.assets</PackagePath>
+      <Modified>2014-08-22T19:07:46.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\sharedassets2.assets">
+      <PackagePath>Data\sharedassets2.assets</PackagePath>
+      <Modified>2014-08-22T19:07:46.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\Data\sharedassets3.assets">
+      <PackagePath>Data\sharedassets3.assets</PackagePath>
+      <Modified>2014-08-22T19:07:46.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\bin\x86\Master\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-05-06T09:27:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\bin\x86\Master\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-05-06T09:27:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\bin\x86\Master\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2014-05-06T09:27:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Application\8\Ping Pong 2D\bin\x86\Master\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-22T19:11:22.264</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.11.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.11.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.11.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

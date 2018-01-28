@@ -1,0 +1,9 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"D:\Projects\Application\8.1\Ping Pong 2D\obj\x86\Master\split.scale-180.pri"			"resources.pri"
+"D:\Projects\Application\8.1\Ping Pong 2D\obj\x86\Master\PackageLayout\Assets\StoreLogo.scale-180.png"			"Assets\StoreLogo.scale-180.png"
+"D:\Projects\Application\8.1\Ping Pong 2D\obj\x86\Master\PackageLayout\Assets\SplashScreen.scale-180.png"			"Assets\SplashScreen.scale-180.png"
+"D:\Projects\Application\8.1\Ping Pong 2D\obj\x86\Master\PackageLayout\Assets\SmallLogo.scale-180.png"			"Assets\SmallLogo.scale-180.png"
